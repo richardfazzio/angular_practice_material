@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "apibot1-77658": {
+      "hosting": {
+        "my-first-app": [
+          "apibot1-77658"
+        ]
+      }
+    }
+  }
+}
